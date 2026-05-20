@@ -109,8 +109,8 @@ La simulación permite validar la secuencia de operación antes de una posible c
 Se adjunta:
 
 - Archivo de programación PLC.
-- Capturas de la simulación.
-- Video demostrativo de la simulación.
+- Capturas de la simulación (en la carpeta Imagenes).
+- Video demostrativo de la simulación (archivo mp4).
 - Excel con detalle de entradas y salidas.
 - Diagrama funcional del proceso.
 - Diagrama eléctrico estimado.
