@@ -1,1 +1,2 @@
-
+Versión usada TIA Portal V17
+Versión Factory IO v2.4.3
