@@ -69,6 +69,7 @@ El detalle completo de las variables de entrada y salida se encuentra documentad
 | Sensor de presencia | Detecta la bolsa en posición de estampado |
 | Sensor de conteo | Registra bolsas procesadas |
 | Reset de contador | Reinicia el conteo |
+| Parada de emergencia | Detiene el proceso y no permite su reactivación |
 | Final de carrera cilindro vertical retraído | Confirma posición inicial del cilindro vertical |
 | Final de carrera cilindro vertical extendido | Confirma posición de trabajo del cilindro vertical |
 | Final de carrera cilindro horizontal retraído | Confirma posición inicial del cilindro horizontal |
@@ -105,7 +106,7 @@ La simulación permite validar la secuencia de operación antes de una posible c
 
 ## Evidencias del proyecto
 
-El proyecto puede incluir:
+Se adjunta:
 
 - Archivo de programación PLC.
 - Capturas de la simulación.
@@ -113,5 +114,7 @@ El proyecto puede incluir:
 - Excel con detalle de entradas y salidas.
 - Diagrama funcional del proceso.
 - Diagrama eléctrico estimado.
+
+---
 
 **Autor: Carlos Gabriel Baltodano Beltrán**
