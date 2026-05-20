@@ -1,2 +1,2 @@
-# automated_plastic_bag_screen_painting
-Sistema de serigrafiado de bolsas de plástico automatizado
+# Sistema de serigrafiado de bolsas de plástico automatizado
+Este proyecto simula un sistema automatizado de estampado por serigrafía utilizando TIA Portal y Factory I/O. El proceso considera una banda transportadora que posiciona bolsas plásticas frente a una estación de impresión, donde un actuador vertical posiciona el cabezal de estampado y un actuador horizontal acciona el rasero serigráfico. La lógica incluye operación automática, operación manual, conteo de unidades y reinicio de contador. Aunque el sistema fue desarrollado en entorno virtual, se planteó una arquitectura básica para su implementación física mediante PLC, sensores fotoeléctricos, cilindros neumáticos de doble efecto, electroválvulas y motorreductor para la banda transportadora.
